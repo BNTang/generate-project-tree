@@ -1,0 +1,14 @@
+ignore_patterns:
+  - node_modules
+  - .git
+  - .next
+  - .contentlayer
+  - .husky
+  - packages
+  - .vscode
+  - .turbo
+  - tests
+  - ui
+  - public
+  - LICENSE
+  - test.http
