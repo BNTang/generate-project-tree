@@ -12,3 +12,5 @@ ignore_patterns:
   - public
   - LICENSE
   - test.http
+  - .idea
+  - dist

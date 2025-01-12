@@ -1,0 +1,1 @@
+python generate_project_tree.py -p D:\IdeaPro\NEO -o tree.md -c config.yaml
